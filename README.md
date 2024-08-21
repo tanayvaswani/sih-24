@@ -1,5 +1,7 @@
 # SIH '24
 
+PS - SIH1729
+
 **Background:**
 
 The All India Council for Technical Education (AICTE) is the primary body responsible for the accreditation and approval of technical education institutions across India. This process, which includes application submissions, document verification, and detailed evaluations by multiple stakeholders, is currently burdened by inefficiencies. The existing system relies heavily on manual processes and paperwork, leading to delays, administrative overhead, and limited visibility into the approval process. Problem Statement: The AICTE approval process involves numerous steps and interactions among educational institutions, regulatory authorities, and evaluators. There is a need for an innovative AI-supported portal that can modernize and streamline the approval workflow, enhance transparency, and significantly reduce processing times.
@@ -34,3 +36,5 @@ By developing this AI-supported AICTE Approval Process Portal, the goal is to re
 **Process Document:**
 
 [Dataset](https://aicte-india.org/sites/default/files/approval/APH%20Final.pdf)
+
+PS - SIH1623, 1624, 1709 (tbd)
