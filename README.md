@@ -33,8 +33,6 @@ The All India Council for Technical Education (AICTE) is the primary body respon
 
 By developing this AI-supported AICTE Approval Process Portal, the goal is to revolutionize the approval process, making it more efficient, transparent, and user-centric, thereby benefiting educational institutions, regulatory authorities, and the broader educational ecosystem.
 
-**Process Document:**
-
-[Dataset](https://aicte-india.org/sites/default/files/approval/APH%20Final.pdf)
+**Process Document:** [Dataset](https://aicte-india.org/sites/default/files/approval/APH%20Final.pdf)
 
 PS - SIH1623, 1624, 1709 (tbd)
