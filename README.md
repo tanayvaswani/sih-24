@@ -1,6 +1,6 @@
 # SIH '24
 
-PS - SIH1729
+## PS - SIH1729
 
 **Background:**
 
@@ -35,4 +35,30 @@ By developing this AI-supported AICTE Approval Process Portal, the goal is to re
 
 **Process Document:** [Dataset](https://aicte-india.org/sites/default/files/approval/APH%20Final.pdf)
 
-PS - SIH1623, 1624, 1709 (tbd)
+## PS - 1701
+
+**Background:**
+
+With a view to address the issue of faster resolution of commercial disputes and for fostering a conducive environment for ease of doing business in India, the Commercial Courts Act, 2015 was enacted to provide for setting up of commercial courts.
+
+Over the years, various legislative and policy reforms have been undertaken by the Government of India with the active support of the judiciary to strengthen the commercial dispute resolution machinery in the country. However, expediting the resolution of commercial disputes without addressing the broader issue of huge pendency in courts is unlikely to be successful. Accordingly, it is proposed to leverage the use of technology for expediting the process of dispute resolution.
+
+**Description:**
+
+A solution is invited to develop an AI-Driven Research Engine exclusively for commercial courts thereby easing the legal research process for judges and judicial officers ultimately contributing to faster dispute resolution.
+
+- Role: The Research Engine must aggregate and process legal data sources, including case laws, statutory provisions, rules, etc. After aggregation and processing of data, it must extract relevant information, identify key legal principles, precedents, etc. and furnish results.
+- Customization: The Research Engine must provide results in a customized manner i.e. as per the needs and demands of each commercial suit.
+- Use of Predictive Analytics: The Research Engine must be capable of forecasting case outcomes based on historical trends and patterns.
+- Data Localization: The Research Engine must ensure that the results meet the diverse requirements of different High Courts of the country and that adequate emphasis is laid on local laws, rules and procedures.
+- Feasibility: The solution must be technically feasible as per the requirements of the Indian Judicial System.
+- Reliability: The Research Engine must ensure that the results are relevant and reliable.
+- User-Friendly: The Research Engine must be user-friendly.
+- Multilingual: The Research Engine must ensure that it supports multiple languages.
+- Ethical Concerns: Giving primacy to ethical concerns surrounding the use of artificial intelligence, measures must be taken to ensure that the engine works in a neutral and transparent manner as a ‘facilitator’ and not a ‘decision-maker’.
+
+**Expected Solution:**
+
+Development of an “Artificial Intelligence-Driven Research Engine for Commercial Courts” that may be considered for a pilot project for reforms associated with commercial courts with the ultimate objective of ease of doing business in India. The solution is expected to assist in expediting legal research and streamlining judicial processes.
+
+## PS - SIH1623, 1624, 1709 (tbd)
