@@ -61,7 +61,7 @@ A solution is invited to develop an AI-Driven Research Engine exclusively for co
 
 Development of an “Artificial Intelligence-Driven Research Engine for Commercial Courts” that may be considered for a pilot project for reforms associated with commercial courts with the ultimate objective of ease of doing business in India. The solution is expected to assist in expediting legal research and streamlining judicial processes.
 
-## PS 1730
+## PS - SIH 1730
 
 **Background:**
 
