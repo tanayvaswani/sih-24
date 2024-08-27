@@ -1,6 +1,4 @@
-# SIH '24
-
-## PS - SIH 1730
+# AI driven Inspection of Institutions (SIH'24)
 
 **Background:**
 
