@@ -65,7 +65,8 @@ Development of an “Artificial Intelligence-Driven Research Engine for Commerci
 
 **Background:**
 
-Institutional inspections are crucial for maintaining educational standards and ensuring compliance with regulatory guidelines. Traditional inspection methods are manual, time-consuming, and often lack consistency.
+Institutional inspections are crucial for maintaining educational standards and ensuring compliance with regulatory guidelines.
+Traditional inspection methods are manual, time-consuming, and often lack consistency.
 There is a need for a more efficient, consistent, and data-driven approach to institutional inspections.
 
 **Detailed Description:**
@@ -77,10 +78,15 @@ There is a need for a more efficient, consistent, and data-driven approach to in
 
 **Expected Solution:**
 
-1. Automated Facility Inspections: Use image recognition to assess infrastructure and facilities.
-2. Document Analysis: Employ natural language processing to evaluate reports, qualifications, and compliance documents.
-3. Real-time Data Collection: Continuously gather and analyze data from various sources to provide up-to-date insights.
-4. Pattern Recognition: Identify trends and potential issues using machine learning algorithms.
-5. Actionable Insights: Generate comprehensive reports with suggestions for improvements and compliance adherence
+1. **Automated Facility Inspections**:
+   Use image recognition to assess infrastructure and facilities.
+2. **Document Analysis**:
+   Employ natural language processing to evaluate reports, qualifications, and compliance documents.
+3. **Real-time Data Collection**:
+   Continuously gather and analyze data from various sources to provide up-to-date insights.
+4. **Pattern Recognition**:
+   Identify trends and potential issues using machine learning algorithms.
+5. **Actionable Insights**:
+   Generate comprehensive reports with suggestions for improvements and compliance adherence.
 
 ## PS - SIH1623, 1624, 1709 (tbd)
