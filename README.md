@@ -35,7 +35,7 @@ By developing this AI-supported AICTE Approval Process Portal, the goal is to re
 
 **Process Document:** [Dataset](https://aicte-india.org/sites/default/files/approval/APH%20Final.pdf)
 
-## PS - 1701
+## PS - SIH1701
 
 **Background:**
 
