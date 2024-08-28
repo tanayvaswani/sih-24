@@ -25,7 +25,12 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <main>{children}</main>
+          {/* <Navbar /> */}
+          {/* <Infobar /> */}
+          <main className="px-6 bg-black md:px-0 md:max-w-screen-xl md:mx-auto">
+            {children}
+          </main>
+          {/* <Footer /> */}
         </ThemeProvider>
       </body>
     </html>
