@@ -1,5 +1,6 @@
 import { BarChart4Icon, BookKeyIcon, Home } from "lucide-react";
 import Link from "next/link";
+import AuthButton from "./navigation/auth-button";
 
 const navRoutes = [
   {
@@ -29,12 +30,12 @@ const Navbar = () => {
 
         <div className="flex items-center gap-2">
           {/* <CommandKSearch /> */}
-          {/* <AuthButton /> */}
+          <AuthButton />
           {/* <UserProfile /> */}
         </div>
       </div>
 
-      <div className="h-16 w-full flex items-center justify-start gap-12 md:max-w-screen-xl md:mx-auto">
+      <div className="h-12 w-full flex items-center justify-start gap-12 md:max-w-screen-xl md:mx-auto">
         {navRoutes.map((route) => (
           <Link
             key={route.title}
