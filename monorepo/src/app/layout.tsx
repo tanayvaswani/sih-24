@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 
 import "./globals.css";
 import { ThemeProvider } from "@/components/providers/theme-provider";
+import { cn } from "@/lib/utils";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={cn(inter.className, "bg-black")}>
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"
@@ -27,7 +28,7 @@ export default function RootLayout({
         >
           {/* <Navbar /> */}
           {/* <Infobar /> */}
-          <main className="px-6 bg-black md:px-0 md:max-w-screen-xl md:mx-auto">
+          <main className="py-36 md:py-52 px-6 md:px-0 md:max-w-screen-xl md:mx-auto">
             {children}
           </main>
           {/* <Footer /> */}
