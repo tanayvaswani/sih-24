@@ -1,7 +1,10 @@
 import { BarChart4Icon, BookKeyIcon, Home } from "lucide-react";
 import Link from "next/link";
-import AuthButton from "./navigation/auth-button";
+
 import { CommandKSearch } from "./navigation/command-k-search";
+
+import AuthButton from "./navigation/auth-button";
+import UserButton from "./navigation/user-button";
 
 const navRoutes = [
   {
@@ -23,7 +26,7 @@ const navRoutes = [
 
 const Navbar = () => {
   return (
-    <div className="fixed z-100 w-full bg-black/30 h-32 md:h-48 border-b backdrop-blur-sm px-6 md:px-0 flex flex-col items-start justify-between">
+    <div className="fixed z-100 w-full bg-black/30 h-32 md:h-48 border-b backdrop-blur-sm shadow-md px-6 md:px-0 flex flex-col items-start justify-between">
       <div className="flex items-center justify-between py-4 md:max-w-screen-xl md:mx-auto w-full">
         <Link href={"/"} className="text-2xl font-semibold hover:opacity-90">
           LogoIpsum
@@ -32,7 +35,7 @@ const Navbar = () => {
         <div className="flex items-center gap-4">
           <CommandKSearch />
           <AuthButton />
-          {/* <UserProfile /> */}
+          <UserButton />
         </div>
       </div>
 
