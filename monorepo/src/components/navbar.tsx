@@ -1,6 +1,7 @@
 import { BarChart4Icon, BookKeyIcon, Home } from "lucide-react";
 import Link from "next/link";
 import AuthButton from "./navigation/auth-button";
+import { CommandKSearch } from "./navigation/command-k-search";
 
 const navRoutes = [
   {
@@ -28,8 +29,8 @@ const Navbar = () => {
           LogoIpsum
         </Link>
 
-        <div className="flex items-center gap-2">
-          {/* <CommandKSearch /> */}
+        <div className="flex items-center gap-4">
+          <CommandKSearch />
           <AuthButton />
           {/* <UserProfile /> */}
         </div>
@@ -44,7 +45,7 @@ const Navbar = () => {
           >
             <route.icon className="h-4 w-4" />
 
-            <span className="font-medium">{route.title}</span>
+            <span className="">{route.title}</span>
           </Link>
         ))}
       </div>
