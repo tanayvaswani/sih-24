@@ -2,8 +2,9 @@ import { Inter } from "next/font/google";
 import type { Metadata } from "next";
 
 import "./globals.css";
-import { ThemeProvider } from "@/components/providers/theme-provider";
 import { cn } from "@/lib/utils";
+import { ThemeProvider } from "@/components/providers/theme-provider";
+import Navbar from "@/components/navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,9 +27,8 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          {/* <Navbar /> */}
-          {/* <Infobar /> */}
-          <main className="py-36 md:py-52 px-6 md:px-0 md:max-w-screen-xl md:mx-auto">
+          <Navbar />
+          <main className="py-40 md:py-56 px-6 md:px-0 md:max-w-screen-xl md:mx-auto">
             {children}
           </main>
           {/* <Footer /> */}
